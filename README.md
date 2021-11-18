@@ -1,7 +1,5 @@
 <h1 align="center">Trilha ReactJS</h1>
-<br>
 <h2>Jornada Ignite Rocketseat</h2>
-<br>
 
 <div align="left">
     <h3>Dtmoney</h3>
